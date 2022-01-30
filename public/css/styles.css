@@ -1,0 +1,69 @@
+/* main */
+body{
+    background-image: url(https://sarahmaker.com/wp-content/uploads/2021/03/bullet-journal-future-log-1024x1024.jpg);
+    max-width: 100%;
+    height:auto;
+    background-size: 100%;    
+}
+
+.logo{
+    text-decoration:solid;
+    color:gray;
+}
+.container{
+    max-width: 100%;
+    padding:1rem 4rem;
+}
+
+
+/* style header */
+.webheading{
+    text-decoration: solid;
+}
+
+.styleHeader{
+    background-color: #97d8d3;
+}
+
+.styleitem{
+    text-decoration:solid;
+    padding:1rem;
+
+}
+.styleitem:hover{
+    color:rgb(62, 36, 155);
+}
+
+
+/* style footer */
+
+
+.styleFooter{
+    text-align:center;
+    /* background-color: rgb(137, 127, 194); */
+    color:black;
+    bottom:0;
+    position:absolute;
+    align-content: center;
+    
+    
+}
+
+/* compose form button */
+.styleBtn{
+    margin-top:1rem;
+}
+
+/* compose button */
+
+.composebtn{
+    text-decoration: solid;
+    border-radius: 1rem;
+    margin: 1rem 0 2rem;
+    
+}
+
+h1,h2,h3,h4,h5{
+    color:#13635d;
+
+}
